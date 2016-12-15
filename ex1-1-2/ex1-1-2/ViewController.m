@@ -17,6 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    NSArray *arry = [NSArray arrayWithObjects:@"A",@"B",@"C",nil];
+    NSDictionary *dic = [NSDictionary dictionaryWithObject:@"hoge"forKey:@"Key"];
+    
+    NSLog(@"result %@",arry);
+    NSLog(@"result %@",dic);
 }
 
 - (void)didReceiveMemoryWarning {
