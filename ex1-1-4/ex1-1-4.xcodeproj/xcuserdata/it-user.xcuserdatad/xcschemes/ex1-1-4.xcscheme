@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7100CB401E08C89A000E4F06"
+               BlueprintIdentifier = "712105271E0B8D3E0044B963"
                BuildableName = "ex1-1-4.app"
                BlueprintName = "ex1-1-4"
                ReferencedContainer = "container:ex1-1-4.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7100CB591E08C89A000E4F06"
+               BlueprintIdentifier = "712105401E0B8D3E0044B963"
                BuildableName = "ex1-1-4Tests.xctest"
                BlueprintName = "ex1-1-4Tests"
                ReferencedContainer = "container:ex1-1-4.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7100CB641E08C89A000E4F06"
+               BlueprintIdentifier = "7121054B1E0B8D3E0044B963"
                BuildableName = "ex1-1-4UITests.xctest"
                BlueprintName = "ex1-1-4UITests"
                ReferencedContainer = "container:ex1-1-4.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7100CB401E08C89A000E4F06"
+            BlueprintIdentifier = "712105271E0B8D3E0044B963"
             BuildableName = "ex1-1-4.app"
             BlueprintName = "ex1-1-4"
             ReferencedContainer = "container:ex1-1-4.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7100CB401E08C89A000E4F06"
+            BlueprintIdentifier = "712105271E0B8D3E0044B963"
             BuildableName = "ex1-1-4.app"
             BlueprintName = "ex1-1-4"
             ReferencedContainer = "container:ex1-1-4.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7100CB401E08C89A000E4F06"
+            BlueprintIdentifier = "712105271E0B8D3E0044B963"
             BuildableName = "ex1-1-4.app"
             BlueprintName = "ex1-1-4"
             ReferencedContainer = "container:ex1-1-4.xcodeproj">

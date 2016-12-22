@@ -2,7 +2,7 @@
 //  main.m
 //  ex1-1-4
 //
-//  Created by ITユーザー on 2016/12/20.
+//  Created by ITユーザー on 2016/12/22.
 //  Copyright © 2016年 富樫克仁. All rights reserved.
 //
 
