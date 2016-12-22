@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-
+#import "Account.h"
 @interface ViewController ()
 
 @end
@@ -17,6 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    Account *account = [[Account alloc]initWithName:@"富樫克仁" age:20 lan:@"java" gender:@"男性"];
+    [account toString];
 }
 
 - (void)didReceiveMemoryWarning {
