@@ -15,6 +15,7 @@
 		71BD19811E270E0B00FBFC7D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71BD197F1E270E0B00FBFC7D /* LaunchScreen.storyboard */; };
 		71BD198C1E270E0B00FBFC7D /* ex2_1_1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 71BD198B1E270E0B00FBFC7D /* ex2_1_1Tests.m */; };
 		71BD19971E270E0B00FBFC7D /* ex2_1_1UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 71BD19961E270E0B00FBFC7D /* ex2_1_1UITests.m */; };
+		71BD19A61E2721BD00FBFC7D /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 71BD19A81E2721BD00FBFC7D /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		71BD19921E270E0B00FBFC7D /* ex2-1-1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ex2-1-1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		71BD19961E270E0B00FBFC7D /* ex2_1_1UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ex2_1_1UITests.m; sourceTree = "<group>"; };
 		71BD19981E270E0B00FBFC7D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		71BD19A71E2721BD00FBFC7D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		71BD19A91E2721E400FBFC7D /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,7 @@
 				71BD19751E270E0B00FBFC7D /* AppDelegate.m */,
 				71BD19771E270E0B00FBFC7D /* ViewController.h */,
 				71BD19781E270E0B00FBFC7D /* ViewController.m */,
+				71BD19A81E2721BD00FBFC7D /* Localizable.strings */,
 				71BD197A1E270E0B00FBFC7D /* Main.storyboard */,
 				71BD197D1E270E0B00FBFC7D /* Assets.xcassets */,
 				71BD197F1E270E0B00FBFC7D /* LaunchScreen.storyboard */,
@@ -244,6 +248,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				71BD19811E270E0B00FBFC7D /* LaunchScreen.storyboard in Resources */,
+				71BD19A61E2721BD00FBFC7D /* Localizable.strings in Resources */,
 				71BD197E1E270E0B00FBFC7D /* Assets.xcassets in Resources */,
 				71BD197C1E270E0B00FBFC7D /* Main.storyboard in Resources */,
 			);
@@ -322,6 +327,15 @@
 				71BD19801E270E0B00FBFC7D /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		71BD19A81E2721BD00FBFC7D /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				71BD19A71E2721BD00FBFC7D /* en */,
+				71BD19A91E2721E400FBFC7D /* Base */,
+			);
+			name = Localizable.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -498,6 +512,7 @@
 				71BD199D1E270E0B00FBFC7D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		71BD199E1E270E0B00FBFC7D /* Build configuration list for PBXNativeTarget "ex2-1-1Tests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +521,7 @@
 				71BD19A01E270E0B00FBFC7D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		71BD19A11E270E0B00FBFC7D /* Build configuration list for PBXNativeTarget "ex2-1-1UITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +530,7 @@
 				71BD19A31E270E0B00FBFC7D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
